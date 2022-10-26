@@ -1,0 +1,21 @@
+WT01	Fog, ice fog, or freezing fog (may include heavy fog)
+WT02	Heavy fog or heaving freezing fog (not always distinguished from fog)
+WT03	Thunder
+WT04	Ice pellets, sleet, snow pellets, or small hail
+WT05	Hail (may include small hail)
+WT06	Glaze or rime
+WT07	Dust, volcanic ash, blowing dust, blowing sand, or blowing obstruction
+WT08	Smoke or haze
+WT09	Blowing or drifting snow
+WT10	Tornado, waterspout, or funnel cloud
+WT11	High or damaging winds
+WT12	Blowing spray
+WT13	Mist
+WT14	Drizzle
+WT15	Freezing drizzle
+WT16	Rain (may include freezing rain, drizzle, and freezing drizzle)
+WT17	Freezing rain
+WT18	Snow, snow pellets, snow grains, or ice crystals
+WT19	Unknown source of precipitation
+WT21	Ground fog
+WT22	Ice fog or freezing fog
